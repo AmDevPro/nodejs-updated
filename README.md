@@ -4,6 +4,8 @@ A Node.js web application deployed to Microsoft Azure using Terraform for Infras
 Overview
 This project demonstrates deploying a **Node.js web application** to **Microsoft Azure** using **Terraform** for Infrastructure as Code and **GitLab CI/CD** pipelines. Originally, **Azure DevOps** was intended to be used for the CI/CD pipelines. However, due to azure temporarily put a pausing request for free concurrency grants throught the end of the year. **GitLab** was utilized as an alternative to implement a fully automated CI/CD process.
 
+This project is a Node.js web application deployed to Microsoft Azure using Infrastructure as Code (Terraform) and CI/CD pipelines. It demonstrates the integration of modern DevOps practices with cloud infrastructure to deliver scalable and automated deployments
+
 ---
 
 ## Features
