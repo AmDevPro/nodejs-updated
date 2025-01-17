@@ -1,8 +1,4 @@
-HEAD
-=======
-HEAD
-HEAD
->>>>>>> a03d3f8 (Initial commit without large files)
+
 # nodejs-updated
 A Node.js web application deployed to Microsoft Azure using Terraform for Infrastructure as Code and GitLab CI/CD pipelines.
 
